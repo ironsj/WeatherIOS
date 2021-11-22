@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-weather-linear-icon-rain-icon-drizzle-icon-601aec9ea1ddc1.913194681612377246663.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
